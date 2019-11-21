@@ -1,4 +1,4 @@
-package com.adneom.formatter;
+package com.adneom.formatter.formatter;
 
 import java.util.ArrayList;
 import java.util.Collection;

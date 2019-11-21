@@ -1,6 +1,6 @@
-package com.adneom;
+package com.adneom.formatter;
 
-import com.adneom.formatter.ListFormatter;
+import com.adneom.formatter.formatter.ListFormatter;
 import org.hamcrest.CoreMatchers;
 import org.junit.Before;
 import org.junit.Test;
