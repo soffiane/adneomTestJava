@@ -29,7 +29,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.adneom.formatter.formatter.ListFormatter</mainClass>
+                            <mainClass>com.adneom.formatter.ListFormatter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
